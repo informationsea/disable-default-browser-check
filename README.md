@@ -39,7 +39,7 @@ Firefox using group policy.
 * Disable Browser Import
     * Disable Browser Import (Microsoft Edge)
     * Disable Browser Import (Firefox)
-* Disable Browser Import (Google Chrome)
+    * Disable Browser Import (Google Chrome)
 * Disable Mini Menu (Microsoft Edge)
 * Disable First Run Experience (Microsoft Edge)
 * Disable Set As Desktop Background... Menu (Firefox)
@@ -50,3 +50,9 @@ Firefox using group policy.
 ## Limitations
 
 * Cannot install if some group polices are configured.
+
+## Group Policy Documents
+
+* [Microsoft Edge](https://learn.microsoft.com/en-us/deployedge/microsoft-edge-policies)
+* [Mozilla Firefox](https://mozilla.github.io/policy-templates/)
+* [Google Chrome](https://chromeenterprise.google/intl/en_us/policies/)
